@@ -31,3 +31,20 @@ build/
 
 ### VS Code ###
 .vscode/
+# MongoDB data
+docker/mongodb/data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
